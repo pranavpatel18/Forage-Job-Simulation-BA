@@ -1,4 +1,4 @@
-# British Airways Data Science Virtual Experience Programme
+# British Airways Data Science Virtual Job Simulation Programme
 
 ## Programme Overview
 
